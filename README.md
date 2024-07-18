@@ -17,12 +17,12 @@ Teaching all the new things that I've learned and learn everyday in articles, sp
       <img src="https://www.svgrepo.com/show/349423/julia.svg" alt="Julia" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png" alt="QGis" width="60" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png?20200530061339" alt="HTML5" width="60" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/640px-Markdown-mark.svg.png" alt="Markdown" width="40" height="40"/>
       <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="Quarto" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/>
       </p>
 
 ---

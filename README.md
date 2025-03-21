@@ -23,7 +23,7 @@ Teaching all the new things that I've learned and learn everyday in articles, sp
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/640px-Markdown-mark.svg.png" alt="Markdown" width="40" height="40"/>
       <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="Quarto" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/>
-      <img src="https://www.lazarus-ide.org/themes/default/images/top_logo.png" alt="Lazarus" width="120" height="55"/>
+      <img src="https://www.lazarus-ide.org/themes/default/images/top_logo.png" alt="Lazarus" width="180" height="55"/>
       </p>
 
 ---

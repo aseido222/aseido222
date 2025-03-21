@@ -24,6 +24,7 @@ Teaching all the new things that I've learned and learn everyday in articles, sp
       <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="Quarto" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" alt="Lazarus" width="55" height="55"/>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FProyecto_Jupyter&psig=AOvVaw1vx9hILQRj4H5SF0i6vBbE&ust=1742646630528000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiop6nclpuMAxWEobAFHeNUCs0QjRx6BAgAEBo" alt="Lazarus" width="55" height="55"/>
       </p>
 
 ---

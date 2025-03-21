@@ -25,6 +25,7 @@ Teaching all the new things that I've learned and learn everyday in articles, sp
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" alt="Lazarus" width="55" height="55"/>
       <img src="https://github.com/user-attachments/assets/7f6ad02a-1841-4752-b183-f9146b6fdc8f" alt="jupyter" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="jupyter" width="55" height="55"/> 
       </p>
 
 ---
